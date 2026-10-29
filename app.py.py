@@ -10,9 +10,6 @@ Original file is located at
 from google.colab import drive
 drive.mount('/content/drive')
 
-!pip install nltk
-!pip install wordcloud
-
 import pandas as pd
 import numpy as np
 
